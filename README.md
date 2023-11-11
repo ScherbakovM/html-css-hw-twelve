@@ -2,7 +2,8 @@
 
 **main** 
 
-![image](https://github.com/ScherbakovM/html-css-hw-twelve/assets/109952823/4a25d476-3cc5-4b0b-8b6d-9b172f750474)
+![image](https://github.com/ScherbakovM/html-css-hw-twelve/assets/109952823/9c78c4ab-6b29-4447-a477-387968a9c6bf)
+
 
 
 **section for** 
